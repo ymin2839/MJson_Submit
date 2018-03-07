@@ -28,8 +28,8 @@ Public Class CMJson
 
     End Property
 
-    Private Shared m_strAccessToken As String = "afac0a5f-556d-4f96-bc6d-0cf88b756b89"
-    Private Shared m_strSecretKey As String = "1f5b0b21-1e31-42f7-ae54-70067af97d52"
+    Private Shared m_strAccessToken As String = "****AccessToken****"
+    Private Shared m_strSecretKey As String = "****SecretKey****"
 
     Public Shared Function GetMJson2(strUrl As String) As String
 
